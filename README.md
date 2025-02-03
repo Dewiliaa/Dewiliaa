@@ -10,7 +10,7 @@
 
 - 🌱 Always learning and optimizing for **performance, AI, and user experience.**
 
-- ☕ Coffee fuels my code, [but debugging tests my patience.](but debugging tests my patience.)
+- ☕ Coffee fuels my code, but debugging tests my patience.
 
 - 🔥 Passionate about **all things web.**
 
